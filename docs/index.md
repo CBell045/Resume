@@ -11,7 +11,7 @@ Student. Data Engineer. Exceptionally Real.
 | <a href="https://www.linkedin.com/in/chadbell045/">LinkedIn</a>
 </div>
 
-<hr/>
+<!-- <hr/> -->
 
 
 ## Education
@@ -21,7 +21,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Bachelor’s Degree in Computer Science
 - 4.0 GPA
 
-<hr/>
+<!-- <hr/> -->
 
 ## Experience
 
@@ -49,7 +49,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Used data Power BI to display findings and suggest potential return customers
 - Created a competitor pricing list using web scraping to improve pricing for hundreds of products across 10+ companies
 
-<hr/>
+<!-- <hr/> -->
 
 ## Service History
 
@@ -58,7 +58,7 @@ __Missionary__, Los Angeles, CA
 
 - Church of Jesus Christ of Latter-day Saints
 
-<hr/>
+<!-- <hr/> -->
 
 
 ## Skills
@@ -66,7 +66,7 @@ __Missionary__, Los Angeles, CA
 - __R__: Tidyverse, Shiny  
 - __SQL__: MySQL, PostgreSQL, SQLite  
 
-<hr/>
+<!-- <hr/> -->
 
 ## Ask me about...
 - Armenian

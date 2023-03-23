@@ -73,7 +73,7 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	/* font-family: Monaco,Menlo,monospace,sans-serif; */
 	color: #ccc;
 }
 
@@ -168,7 +168,7 @@ a:hover {
 	position: relative;
 	left: 25%;
 	color: #ccc;
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	/* font-family: Monaco,Menlo,monospace,sans-serif; */
 	font-size: 90%;
 }
 

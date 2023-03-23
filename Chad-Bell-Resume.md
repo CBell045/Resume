@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: resume
 title: Chad Bell's Resume
 ---
 # Chad Bell

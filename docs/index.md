@@ -31,9 +31,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Automated weekly reports to management and repetitive emails to clients saving 10+ hours a week
 - Created an Airtable interface to manage hundreds of clients and track loan data
 
-### Data Consulting
+### Data Consultant
 `February 2023 - Present ` __Chad Bell Data Consulting__ | Phoenix, AZ
-- Private data consulting projects for small businesses
+- Consulted with small businesses on data projects and automation
 - Created Jupyter Notebooks to automate data tasks with Pandas
 - Web scraped thousands of websites for keywords using Python's BeautifulSoup and Requests
 

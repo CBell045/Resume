@@ -1,7 +1,3 @@
----
-layout: cv
-title: Chad Bell's Resume
----
 # Chad Bell
 Student. Data Engineer. Exceptionally Real. 
 
@@ -39,13 +35,13 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Django Developer
 `April 2022 - May 2022 ` __Annaniks__ | Gyumri, Armenia   
-- Provided backend web development using Python’s Django Framework
-- In four weeks, learned the basics of Django and created CRUD API endpoints
-- Experienced international business differences and developed foreign communication skills
+- Learned Python's Django Framework and created CRUD API endpoints
+- Backend web development using Django
+- Developed foreign communication and business skills
 
 ### Data Analyst
 `October 2021 - April 2022 ` __Frozen Dessert Supplies__ | Rexburg, ID
-- With a team of 2 people, designed and implemented a customer database using MySQL
+- Helped to design and implement a customer database with mySQL
 - Used data Power BI to display findings and suggest potential return customers
 - Created a competitor pricing list using web scraping to improve pricing for hundreds of products across 10+ companies
 

@@ -40,8 +40,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Django Developer
 `April 2022 - May 2022 ` __Annaniks__ | Gyumri, Armenia   
-- Learned Python's Django Framework and created CRUD API endpoints
-- Backend web development using Django
+- In 4 weeks, learned the basics of Django 
+- Used the Django Framework to create CRUD API endpoints
 - Developed foreign communication and business skills
 
 ### Data Analyst

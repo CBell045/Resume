@@ -30,7 +30,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `March 2023 - Present ` __PREVAIL__ | Frazeysburg, OH
 - Created a dashboard and client interface using Python’s Dash
 - Automated weekly reports to management and repetitive emails to clients saving 10+ hours a week
-- Created an Airtable interface to manage hundreds of clients and track loan data
+- Created an Airtable interface to manage hundreds of clients and track more than $5,000,000 in loan data
 
 ### Data Consultant
 `February 2023 - Present ` __Chad Bell Data Consulting__ | Phoenix, AZ

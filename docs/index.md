@@ -1,3 +1,8 @@
+---
+ layout: cv
+ title: Chad Bell's Resume
+---
+
 # Chad Bell
 Student. Data Engineer. Exceptionally Real. 
 
